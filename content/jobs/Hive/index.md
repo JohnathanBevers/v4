@@ -1,6 +1,6 @@
 ---
 date: '2020-6-01'
-title: 'Software Development Intern
+title: 'Software Development Intern'
 company: 'Hive'
 location: 'Nashville, TN'
 range: 'June - August 2020'
