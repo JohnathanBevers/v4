@@ -136,9 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Johnathan and I enjoy programming and anything technology related. I
-              have obtained by Associates Degree from MSCC in 2020 and will gradute with my
-              bachelors from MTSU in 2022.
+              Hello! My name is Johnathan Bevers and I enjoy programming and anything technology
+              related. I have obtained by Associates Degree from MSCC in 2020 and will gradute with
+              my bachelors from MTSU in 2022.
             </p>
 
             <p>
@@ -158,7 +158,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpeg"
+              src="../../images/me.JPEG"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
