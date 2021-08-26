@@ -10,4 +10,3 @@ url: 'https://www.linkedin.com/company/joinhiveapp/'
 - Interned for a start-up based in Nashville,TN
 - Programmed using JavaScript and TypeScript
 - Contributed toward a mobile ready application on IOS and Androids.
-- Unpaid Internship, The start-up eventually failed.
