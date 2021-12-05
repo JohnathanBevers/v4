@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Vanderbilt Robotics & Autonomous Systems Lab Asset Management'
 cover: './asset.jpeg'
 github: 'https://github.com/bobcat4848/asset-management'
