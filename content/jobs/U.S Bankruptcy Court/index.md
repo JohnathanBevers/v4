@@ -1,9 +1,9 @@
 ---
-date: '2021-12-04'
+date: '2022-01-07'
 title: 'Software Development Intern'
 company: 'U.S Bankruptcy Court'
 location: 'Nashville, TN'
-range: 'August 2020 - Present'
+range: 'August 2020 - January 2022'
 url: 'https://www.tnmb.uscourts.gov/'
 ---
 
