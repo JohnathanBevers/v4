@@ -1,6 +1,6 @@
 ---
 date: '2022-04-05'
-title: 'Software Engineer
+title: 'Software Engineer'
 company: 'GDIT'
 location: 'Remote'
 range: 'January 2022 - Present'
