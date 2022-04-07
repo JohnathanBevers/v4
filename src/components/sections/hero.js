@@ -63,8 +63,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <p>
-      I'm a software engineer that is currently looking for opportunites. This website is for
-      showcasing my work to show some tools in my toolbox.
+      I'm a software engineer that is always open to hear about any opportunites. This website's
+      purpose is to showcase my work and show the tools in my toolbox.
     </p>
   );
   const five = (

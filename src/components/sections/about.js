@@ -138,12 +138,12 @@ const About = () => {
             <p>
               Hello! My name is Johnathan Bevers and I enjoy programming and anything technology
               related. I have obtained by Associates Degree from MSCC in 2020 and will gradute with
-              my bachelors from MTSU in 2022.
+              my bachelors from MTSU in May 2022.
             </p>
 
             <p>
-              I am currently looking for my first long term position once I graduate or any
-              internships to help further my programming knowledge.
+              I am not currently looking for any positions but I am always open to discuss
+              opportunites.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
