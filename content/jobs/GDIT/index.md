@@ -3,7 +3,7 @@ date: '2022-04-05'
 title: 'Software Engineer'
 company: 'GDIT'
 location: 'Remote'
-range: 'January 2022 - Present'
+range: 'January 2022 - June 2022'
 url: 'https://www.gdit.com/'
 ---
 
