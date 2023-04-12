@@ -7,6 +7,7 @@ range: 'June 2022 - Present'
 url: 'https://www.boozallen.com/'
 ---
 
-- Utilize Java, Spring Boot, AWS, Python, and JavaScript in various projects for different clients.
-- Perform researching, designing, developing, modifying enterprise-wide systems, and architectures depending on the task that is needed by the client.
-- Work in an agile scrum environment with a small team that consistently meets sprint commitments.
+- Collaborate with cross-functional teams to deliver high-quality, scalable, and efficient enterprise-wide systems and architectures using modern technologies such as Java 8, Spring Boot, AWS, Kubernetes, Docker, and React.
+- Conduct research, design, and development for various projects to meet the needs of different clients.
+- Utilize agile methodologies to work in a small team that consistently meets sprint commitments, while also mentoring junior developers and contributing to team-wide process improvement initiatives.
+- Architected and implemented new features to support API creation, 4+1 model views, and new feature roadmaps, utilizing design patterns to deliver efficient, readable, scalable, and quality applications.
