@@ -136,15 +136,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Johnathan Bevers and I enjoy programming and anything technology
-              related. I have obtained an Associates Degree from MSCC in 2020 and my bachelors from
-              MTSU in May 2022. I am currently working on my Masters in Computer Science at Georgia
-              Tech.
+              Greetings! I am Johnathan Bevers, a passionate technophile with a keen interest in
+              programming and all things related to technology. I hold an Associates Degree from
+              MSCC, which I obtained in 2020, and recently graduated with a Bachelor's degree from
+              MTSU in May 2022. Currently, I am pursuing my Masters in Computer Science at Georgia
+              Tech, seeking to broaden my horizons and delve deeper into the intricate workings of
+              computer science.
             </p>
 
             <p>
-              I am not currently looking for any positions but I am always open to discuss
-              opportunites.
+              Thank you for taking the time to learn a bit about me. Please feel free to browse my
+              portfolio to see examples of my work and get a better sense of my skills and
+              abilities.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
