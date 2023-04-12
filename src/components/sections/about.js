@@ -136,8 +136,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Greetings! I am Johnathan Bevers, a passionate technophile with a keen interest in
-              programming and all things related to technology. I hold an Associates Degree from
+              Greetings! I am Johnathan Bevers, a passionate software engineer with a keen interest
+              in programming and all things related to technology. I hold an Associates Degree from
               MSCC, which I obtained in 2020, and recently graduated with a Bachelor's degree from
               MTSU in May 2022. Currently, I am pursuing my Masters in Computer Science at Georgia
               Tech, seeking to broaden my horizons and delve deeper into the intricate workings of
